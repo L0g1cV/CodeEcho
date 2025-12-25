@@ -48,6 +48,8 @@ temp/
 *.out
 go.work
 
+docs/
+
 # Vue/Vite
 *.local
 .vite/
